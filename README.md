@@ -33,7 +33,7 @@
 ### 📂 Популярные проекты:
 1. **[diagramm](https://github.com/Binobinos/diagramm)** - Телеграмм бот на аиограмм с mongo db motor и админ панелью
 2. **[Nullity](https://github.com/Binobinos/Nullity)** - Мини фреймворк для полносвязных сетей (В разработке)
-3. **[SpaceWorld]((https://github.com/Binobinos/SpaceWorld))** - Программа для утилит с собственной консолью (В разработке)
+3. **[SpaceWorld](https://github.com/Binobinos/SpaceWorld)** - Программа для утилит с собственной консолью (В разработке)
 
 ### 📈 Статистика GitHub:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Binobinos&show_icons=true&theme=radical&hide_border=true)
