@@ -42,6 +42,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Binobinos&layout=compact&theme=radical&hide_border=true)
 
 📫 Связь:
-<a href="mailto:binobinoskroun0@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white"></a>
+<a href="mailto:binobinos.dev@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white"></a>
 <a href="https://t.me/binobinos"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white"></a>
 
