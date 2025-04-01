@@ -22,7 +22,7 @@
 |--------|----------|------------|-------------|
 | [Diagramm Bot](https://github.com/Binobinos/diagramm) | Telegram-бот для учебных материалов | Aiogram, MongoDB | 1500+ |
 | [Nullity](https://github.com/Binobinos/Nullity) | Минималистичный фреймворк НС | Чистый Python | 50 |
-| [Spaceworld](https://github.com/Binobinos/SpaceWorld/tree/master) | Минималистичный фреймворк НС | Python, PySide6, JSON | 1000+ |
+| [Spaceworld](https://github.com/Binobinos/SpaceWorld/tree/master) | Кастомная программа для утилит с консолью | Python, PySide6, JSON | 1000+ |
 
 
 ### 📊 Активность:
