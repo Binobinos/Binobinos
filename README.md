@@ -18,7 +18,7 @@
 
 ### 🏆 Достижения:
 - 🏅 Многократный призер олимпиад по информатике
-- 🚀 Автор 10+ проектов различной сложности
+- 🚀 Автор 4+ проектов различной сложности
 - 👨‍🏫 Наставник для начинающих разработчиков
 - 🧠 Разрабатываю ПО с 9 лет
 
@@ -27,17 +27,17 @@
 | Проект | Описание | Технологии |
 |--------|----------|------------|
 | **[Diagramm Bot](https://github.com/Binobinos/diagramm)** | Продажа образовательного контента в Telegram | Aiogram, MongoDB, Pydantic |
-| **[Nullity Framework](https://github.com/Binobinos/Nullity)** | Мини-фреймворк для нейронных сетей | Python, NumPy |
-| **[SpaceWorld](https://github.com/Binobinos/SpaceWorld)** | Консольная утилита для системного администрирования | C++, Python |
+| **[Nullity Framework](https://github.com/Binobinos/Nullity)** | Мини-фреймворк для нейронных сетей | Python |
+| **[SpaceWorld](https://github.com/Binobinos/SpaceWorld)** | Консольная утилита для системного администрирования | Python |
 
 ### 📊 Активность:
-```text
+
 🌱 Изучаю:      Zig | Алгоритмы | Computer Architecture
 🔭 Работаю над: Nullity Framework v2.0
 📅 Планы:       Участие в хакатоне | Разработка компилятора
 📈 Статистика:
-GitHub Stats
-Top Langs
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Binobinos&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Binobinos&layout=compact&theme=radical&hide_border=true)
 
 📫 Контакты:
 <a href="mailto:binobinoskroun0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
