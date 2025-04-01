@@ -47,4 +47,4 @@
 ### 📫 Как связаться:
 - ✉️ Email: [binobinoskroun0@gmail.com](mailto:binobinoskroun0@gmail.com)
 - 📱 Telegram: [@binobinos](https://t.me/binobinos)
-- 💼 LinkedIn: [Твой профиль](ссылка) - если есть
+
