@@ -18,11 +18,11 @@
 
 ### 📚 Мои проекты:
 
-| Проект | Описание | Технологии | Строки кода |
-|--------|----------|------------|-------------|
-| [Diagramm Bot](https://github.com/Binobinos/diagramm) | Telegram-бот для учебных материалов | Aiogram, MongoDB | 1500+ |
-| [Nullity](https://github.com/Binobinos/Nullity) | Минималистичный фреймворк НС | Чистый Python | 71 |
-| [Spaceworld](https://github.com/Binobinos/SpaceWorld/tree/master) | Кастомная программа для утилит с консолью | Python, PySide6, JSON, speedtest | 1000+ |
+| Проект | Описание | Технологии |
+|--------|----------|------------|
+| [Diagramm Bot](https://github.com/Binobinos/diagramm) | Telegram-бот для учебных материалов | Aiogram, MongoDB | 
+| [Nullity](https://github.com/Binobinos/Nullity) | Минималистичный фреймворк НС | Чистый Python |
+| [Spaceworld](https://github.com/Binobinos/SpaceWorld/tree/master) | Кастомная программа для утилит с консолью | Python, PySide6, JSON, speedtest |
 
 
 ### 📊 Активность:
