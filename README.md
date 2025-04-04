@@ -9,7 +9,7 @@
 - <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> (с 2019 года)
 - <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"> (4 года опыта)
 - <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> (1 года опыта)
-- <img src="https://img.shields.io/badge/Zig-F7A41D?style=flat&logo=zig&logoColor=white"> (изучаю)
+
 
 **Изученные технологии:**
 - Веб: HTML/CSS (базовый уровень)
@@ -28,13 +28,13 @@
 ### 📊 Активность:
 
 Сейчас углубляюсь:
-- Язык программирования Zig
 - Алгоритмы и структуры данных
 - Оптимизация кода
 
 В планах:
 - Доработка Nullity (добавление CUDA-ускорения)
-- Участие в хакатоне
+- Изучение SQL, REST API, FAST API
+- Стажировка в IT компаниях
 📈 Статистика:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Binobinos&show_icons=true&theme=radical&hide_border=true)
