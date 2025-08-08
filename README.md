@@ -10,7 +10,7 @@ Hi! I found a Binobinos that appeared on my Github
 
 ### 📂 My projects
 | project | Description |
-|--------|----------|------------|
+|--------|----------|
 | [SpaceWorld](https://github.com/Binobinos/SpaceWorld) | CLI framework for Python 3.12+ | 
 | [Nullity](https://github.com/Binobinos/Nullity) | Neural network framework for the perceptron |
 
