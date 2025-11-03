@@ -89,9 +89,7 @@ complex development challenges.
 </p>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Binobinos}/count.svg" /></p> 
-<br>
+<img src="https://komarev.com/ghpvc/?username=Binobinos&color=white" alt="GitHub Views" />
 </div>
 
 ---
